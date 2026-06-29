@@ -1,2 +1,14 @@
-# cpp-foundations
-A curated collection of foundational C++ projects demonstrating modern C++ practices, memory‑safe design, modular architecture, and early systems‑level engineering.
+# 1. Overview 🧠
+
+# 2. Skills Practiced 🛠
+
+# 3. Project List 🧩
+## 1. Data Cleaning & Transformation Tool (Coming Soon)
+
+## 2. Log Parser & Analyzer (Coming Soon)
+
+## 3. OOP Inventory System (Coming Soon)
+
+## 4. Visualization Lab (Coming Soon)
+
+# 4. Roadmap 📈
